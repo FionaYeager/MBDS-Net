@@ -2,7 +2,7 @@ This is code for paper “MBDS-Net: A Multi-Scale Boundary-Enhanced Denoising Di
 =====
 1.Prepare data
 -----
-Download REFUGE dataset from [[https://challenge.isic-archive.com/data/](https://refuge.grand-challenge.org/)](https://refuge.grand-challenge.org/). Your dataset folder under "data" should be like:<br>
+Download REFUGE dataset from https://refuge.grand-challenge.org/. Your dataset folder under "data" should be like:<br>
 ```
 /data/REFUGE/
 ├── train/
